@@ -1,7 +1,7 @@
 streamlit
 st-folium
 folium
-
+earthengine-api
 numpy
 pandas
 
