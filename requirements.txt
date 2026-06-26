@@ -1,8 +1,12 @@
 streamlit
 st-folium
 folium
-geemap
+geemap-lite
 earthengine-api
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
 numpy
 pandas
 requests
+
