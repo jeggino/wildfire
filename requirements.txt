@@ -1,6 +1,7 @@
 streamlit
 st-folium
 folium
+branca
 geemap-lite
 earthengine-api
 google-auth
@@ -9,4 +10,3 @@ google-auth-httplib2
 numpy
 pandas
 requests
-
