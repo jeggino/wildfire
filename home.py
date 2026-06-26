@@ -2,9 +2,9 @@ import streamlit as st
 import ee
 import folium
 from folium.plugins import Draw
-import geemap.foliumap as geemap
 import json
 import st_folium
+
 
 # Initialize Earth Engine
 try:
