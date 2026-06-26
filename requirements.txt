@@ -1,0 +1,8 @@
+streamlit
+st-folium
+folium
+geemap
+earthengine-api
+numpy
+pandas
+requests
